@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#193044"/>
+      <stop offset=".55" stop-color="#080b10"/>
+      <stop offset="1" stop-color="#050609"/>
+    </radialGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0v56" fill="none" stroke="#8bd3ff" stroke-opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <path d="M96 486h1008" stroke="#8bd3ff" stroke-opacity=".35"/>
+  <text x="94" y="250" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700">Mahesh Suthar</text>
+  <text x="100" y="330" fill="#a9b3c7" font-family="Arial, Helvetica, sans-serif" font-size="34">Game Developer • Gameplay Systems • Full Stack Engineer</text>
+  <text x="100" y="440" fill="#8bd3ff" font-family="monospace" font-size="22" letter-spacing="8">UNITY / C# / MULTIPLAYER / FULL STACK</text>
+  <circle cx="1010" cy="182" r="86" fill="none" stroke="#f97316" stroke-opacity=".55" stroke-width="3"/>
+  <circle cx="1010" cy="182" r="36" fill="#8bd3ff" fill-opacity=".16"/>
+</svg>

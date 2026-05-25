@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#07090c"/>
+  <radialGradient id="g" cx=".5" cy=".2" r=".8"><stop offset="0" stop-color="#213146"/><stop offset=".65" stop-color="#0c1118"/><stop offset="1" stop-color="#07090c"/></radialGradient>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <g transform="translate(130 105)">
+    <rect width="500" height="390" fill="#0b1119" stroke="#8bd3ff" stroke-opacity=".28"/>
+    <g fill="#121b28" stroke="#fff" stroke-opacity=".12">
+      <rect x="34" y="42" width="86" height="86"/><rect x="140" y="42" width="86" height="86"/><rect x="246" y="42" width="86" height="86"/><rect x="352" y="42" width="86" height="86"/>
+      <rect x="34" y="148" width="86" height="86"/><rect x="140" y="148" width="86" height="86"/><rect x="246" y="148" width="86" height="86"/><rect x="352" y="148" width="86" height="86"/>
+      <rect x="34" y="254" width="86" height="86"/><rect x="140" y="254" width="86" height="86"/><rect x="246" y="254" width="86" height="86"/><rect x="352" y="254" width="86" height="86"/>
+    </g>
+    <path d="M183 68 205 112h-44Z" fill="#8bd3ff"/><circle cx="289" cy="191" r="29" fill="#f97316"/><path d="M372 278h48v48h-48z" fill="#8bd3ff" fill-opacity=".72"/>
+  </g>
+  <g transform="translate(720 140)">
+    <rect width="300" height="320" fill="#0b1119" stroke="#f97316" stroke-opacity=".34"/>
+    <text x="30" y="58" fill="#f97316" font-family="monospace" font-size="20">DROP TABLE</text>
+    <text x="30" y="116" fill="#a9b3c7" font-family="monospace" font-size="17">RARE 12%</text>
+    <text x="30" y="164" fill="#a9b3c7" font-family="monospace" font-size="17">EPIC 4%</text>
+    <text x="30" y="212" fill="#a9b3c7" font-family="monospace" font-size="17">AFFIX: FIRE</text>
+    <text x="30" y="260" fill="#8bd3ff" font-family="monospace" font-size="17">PITY +1</text>
+  </g>
+  <text x="76" y="616" fill="#fff" font-family="Arial" font-size="42" font-weight="700">Inventory &amp; Loot System</text>
+</svg>

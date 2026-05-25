@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset=".55" stop-color="#07111f"/><stop offset="1" stop-color="#030407"/></linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8bd3ff" stop-opacity="0"/><stop offset=".5" stop-color="#8bd3ff"/><stop offset="1" stop-color="#f97316" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <g stroke="#8bd3ff" stroke-opacity=".12"><path d="M0 520h1200M0 430h1200M0 340h1200M0 250h1200"/><path d="M120 0v675M300 0v675M480 0v675M660 0v675M840 0v675M1020 0v675"/></g>
+  <path d="M0 540 325 310l230 75 215-190 430 300v180H0Z" fill="#101c2a"/>
+  <path d="M75 538 350 346l205 70 210-168 360 252" fill="none" stroke="#8bd3ff" stroke-width="3" stroke-opacity=".45"/>
+  <rect x="120" y="130" width="246" height="112" fill="#0a111c" stroke="#8bd3ff" stroke-opacity=".35"/>
+  <text x="145" y="174" fill="#8bd3ff" font-family="monospace" font-size="20">SERVER AUTH</text>
+  <text x="145" y="208" fill="#a9b3c7" font-family="monospace" font-size="14">prediction: online</text>
+  <circle cx="810" cy="272" r="76" fill="none" stroke="#f97316" stroke-width="4" stroke-opacity=".75"/>
+  <path d="M810 188v168M726 272h168" stroke="#f97316" stroke-width="2" stroke-opacity=".65"/>
+  <path d="M390 458h260l70 82H320Z" fill="#17283a" stroke="#8bd3ff" stroke-opacity=".28"/>
+  <path d="M250 360h245" stroke="url(#beam)" stroke-width="8"/>
+  <path d="M640 315h345" stroke="url(#beam)" stroke-width="5"/>
+  <text x="76" y="616" fill="#fff" font-family="Arial" font-size="42" font-weight="700">Multiplayer FPS Prototype</text>
+</svg>

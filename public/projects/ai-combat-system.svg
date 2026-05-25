@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#06080d"/>
+  <radialGradient id="r" cx=".65" cy=".35" r=".65"><stop offset="0" stop-color="#26394d"/><stop offset=".55" stop-color="#10151d"/><stop offset="1" stop-color="#06080d"/></radialGradient>
+  <rect width="1200" height="675" fill="url(#r)"/>
+  <g fill="none" stroke="#8bd3ff" stroke-opacity=".16"><circle cx="620" cy="305" r="240"/><circle cx="620" cy="305" r="168"/><circle cx="620" cy="305" r="86"/></g>
+  <path d="M620 305 380 186a268 268 0 0 1 480 0Z" fill="#8bd3ff" fill-opacity=".08" stroke="#8bd3ff" stroke-opacity=".28"/>
+  <path d="M620 305 812 486a264 264 0 0 1-384 0Z" fill="#f97316" fill-opacity=".08" stroke="#f97316" stroke-opacity=".35"/>
+  <g stroke="#a9b3c7" stroke-width="3" fill="#101722">
+    <rect x="520" y="232" width="200" height="146" rx="4"/>
+    <path d="M555 232v-36h130v36M560 378l-34 74M680 378l34 74"/>
+  </g>
+  <circle cx="582" cy="292" r="12" fill="#8bd3ff"/><circle cx="662" cy="292" r="12" fill="#f97316"/>
+  <path d="M560 338c40 24 82 24 124 0" stroke="#fff" stroke-opacity=".55" stroke-width="5" fill="none"/>
+  <g font-family="monospace" font-size="17">
+    <text x="106" y="146" fill="#8bd3ff">STATE: FLANK</text>
+    <text x="106" y="184" fill="#a9b3c7">THREAT SCORE 0.82</text>
+    <text x="874" y="496" fill="#f97316">COVER NODE</text>
+    <text x="874" y="534" fill="#a9b3c7">PATH CONFIDENCE 94%</text>
+  </g>
+  <text x="76" y="616" fill="#fff" font-family="Arial" font-size="42" font-weight="700">AI Enemy Combat System</text>
+</svg>
